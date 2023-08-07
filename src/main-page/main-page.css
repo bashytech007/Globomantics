@@ -1,0 +1,14 @@
+.logo{
+  height:150px;
+}
+
+.subtitle{
+  font-style:italic;
+  font-size:x-large;
+  color:coral;
+}
+
+.featuresHouse{
+  border-radius:3px;
+  background-color:rgb(255,100,166)
+}
